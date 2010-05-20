@@ -32,4 +32,4 @@ IRC: Come chat in the #cascading room on freenode
 
 # Acknowledgements
 
-Cascalog is based off of a very early branch of cascading-clojure project (http://github.com/clj-sys/cascading-clojure). Special thanks to Bradford Cross and Mark McGranaghan for their work on that project. Much of that code appears within Cascalog in either its original form or a modified form.
+Cascalog is based off of a very early branch of [cascading-clojure project](http://github.com/clj-sys/cascading-clojure). Special thanks to Bradford Cross and Mark McGranaghan for their work on that project. Much of that code appears within Cascalog in either its original form or a modified form.
